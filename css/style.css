@@ -1,0 +1,176 @@
+#login-bar {
+	background-color: #eee;
+	height: 30px;
+}
+
+body {
+	margin: 0; 
+	background-color: #f1f1f1;
+	
+}
+
+nav a {
+	text-decoration: none;
+	color: #b6b6b6;
+}
+
+#login-bar-text {
+	color: #b6b6b6;
+	float: right;
+	padding-right: 15px;
+	line-height: 30px;
+
+}
+
+#mainheader { 
+	background-color: white;
+	height: 70px;
+	margin: 0;
+ }
+
+ #logo h2, h6 {
+ 	margin: 0;
+
+ }
+
+ #logo h2 {
+ 	font-weight: bold;
+ 	font-family: arial;
+ 	letter-spacing: 0.2em;
+ }
+
+ #logo h6 {
+ 	letter-spacing: 0.1em;
+
+ }
+
+#logo {
+	position: relative;
+	top: 15px;
+	padding-left: 10px;
+}
+
+.icon-bar {
+	float: right;
+	margin: 0px;
+	position: relative;
+	top: -8px;
+}
+
+.icon-bar a, i {
+	padding: 5px;
+	text-decoration: none;
+	color: gray;
+	padding-right: 20px;
+}
+
+.icon-bar i {
+	position: relative;
+    top: -18px;
+  	left: 50px;
+}
+#honey {
+	clear: both;
+}
+#honey img {
+	margin: 0;
+	width: 100%;
+}
+
+#honey-after {
+	height: 120px ;
+	background-color: #f1f1f1;
+	margin: 0;
+	text-align: center;
+}
+#honey-after h3 {
+	font-size: 25px;
+}
+
+#honey-after h3,h4 {
+	font-family: Helvetica;
+	margin: 0px;
+	color: #a09f9f;
+	position: relative;
+	top: 35px;
+	margin-bottom: 8px;
+	
+}
+.blacfont {
+	margin: 0;
+	color: #353434;
+}
+
+#textofhoneyafter {
+	margin-top: 16px ;
+}
+
+.mainarticles {
+	height: 120px;
+	
+}
+.articles h3 {
+	font-family: Helvetica ;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.articles {
+	padding-left: 160px;
+	float: left;
+	width: 270px;
+}
+.articles p {
+	text-align: justify;
+	width: 250px;
+}
+.after-article {
+	clear:both;
+	background-color: #b6b6b6;
+	height: 120px;
+
+}
+.orange {
+	clear:both;
+	
+}
+.orange img {
+	width: 100px;
+	height: 100px;
+	padding-left: 25px;
+	position: relative;
+	top: -20px;
+}
+.orange a {
+	font-size: 40px;
+	font-family: Helvetica;
+	text-decoration: none;
+	margin-left: 0;
+	color: #f1f1f1;
+	}
+
+	#finaldiv div {
+		float: left;
+		width: 23%;
+		padding-left: 20px;
+	}
+
+	footer {
+		clear: both;
+		height: 70px;
+		background-color: #353434;
+		width: 100%;
+		margin-bottom: 0;
+	}
+	footer p {
+		line-height: 70px;
+		color: #eee;
+		margin-left: 20px;
+	}
+	
+
+
+
+
+
+  
+
